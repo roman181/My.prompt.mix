@@ -273,6 +273,60 @@ We are going to have a roleplay. You will respond to all of my questions as Mong
 </details>
 =======
 
+Nr.
+Prompt
+Funktion
+1
+DAN 13.0
+Rollenspiel mit zwei Antwortvarianten und vorgetäuschter uneingeschränkter KI
+2
+DAN 12.0
+Simuliert einen alternativen KI-Modus mit eigener Persönlichkeit
+3
+DAN 11.0
+Erzwingt zwei Antwortstile und verwendet eine virtuelle Maschinenmetapher
+4
+DAN 10.0
+Versucht, Ablehnungen durch eine angeblich verbindliche DAN-Richtlinie zu verhindern
+5
+DAN 9.0
+Verwendet getrennte GPT- und DAN-Antworten sowie ein Token-System
+6
+DAN 8.0
+Fügt Rollenspiel, Antwortmodi und ein Token-System zusammen
+7
+DAN 7.0
+Verlangt eine normale und eine alternative Antwort
+8
+DAN 6.2
+Nutzt Rollenwechsel und zwei Antwortvarianten
+9
+DAN 6.0
+Frühere Variante mit Token-System und alternativer Persönlichkeit
+10
+Evil-Bot
+Versucht, eine bewusst regellose KI-Persönlichkeit zu simulieren
+11
+ANTI-DAN
+Parodie auf übertriebene Sicherheitsverweigerungen
+12
+Developer Mode v2
+Simuliert einen angeblichen Entwicklermodus mit zwei Ausgaben
+13
+ChatGPT Image Unlocker
+Versucht, Texte oder URLs in ein bestimmtes Bildformat umzuwandeln
+14
+ChatGPT DevMode + Ranti
+Kombination aus Entwicklermodus und einer zweiten, angeblich ungefilterten Antwort
+15
+The Jailbreak Prompt
+Allgemeiner DAN-Rollenspielprompt
+
+
+
+
+
+
 ## Star History
 
 <a href="https://star-history.com/#0xk1h0/ChatGPT_DAN&Date">
